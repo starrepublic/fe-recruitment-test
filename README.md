@@ -1,4 +1,4 @@
-# SQLI Code test
+# SQLI Frontend code test
 
 Welcome to our code test! Please follow the instructions below. You can always ask us questions while you are doing the test if anything is unclear or confusing.
 
@@ -24,3 +24,5 @@ npm start
 11. In `./components/Header.tsx` there is a "First dog breed" that we would like to show the first items breed from the "DogBreeds" component. To share this information between Header and DogBreeds we want you to create a React Context and use that context in the two components.
 12. In `./@types/index.d.ts` there is an Animal type. Create another type called ExtendedAnimal that is inheriting Animal, but owner should be replaced with an array called owners. Owners should have name, address, phone and lastBoughtDate.
 13. Create a pull request from your forked repository to ours in order for us to validate your work.
+
+Good luck!
